@@ -1,0 +1,34 @@
+#show_sketch{
+    font-family: 'Dancing Script', cursive;
+    float: right;
+}
+h1{
+    background-color: rgba(208, 144, 245, 0.884)
+}
+#score{
+    font-family: 'Dancing Script', cursive;
+    color: blue;
+    float: left;
+margin-left: 20px;
+}
+#timer{
+    font-family: 'Dancing Script', cursive;
+    color: blue;
+    float: right;
+    margin-right: 20px;
+}
+#sketch{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+}
+#confidence{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+}
+#label{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+}
+body{
+background-image:url("cute_pizza_2.jpg");
+}
